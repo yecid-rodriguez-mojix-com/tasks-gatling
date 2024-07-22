@@ -1,4 +1,4 @@
-name: Execution Performance
+name: Execution Performance for Restfull API
 
 on:
   workflow_dispatch:
