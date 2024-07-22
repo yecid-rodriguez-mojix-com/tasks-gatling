@@ -5,9 +5,9 @@ on:
     inputs:
       testSuite:
         type: string
-        description: 'testSuite'
+        description: 'testSuite for Restfull API'
         required: true
-        default: 'pokemonapi.PokemonApiTest'
+        default: 'restfulapi.RestfulApiTest'
       concurrent:
         type: string
         description: 'Quantity of users'
@@ -17,7 +17,7 @@ on:
 jobs:
   execpokemonapi:
     runs-on: ubuntu-latest
-    name: Execution Performance Pokemon API
+    name: Execution Performance Restful API
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
