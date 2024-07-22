@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Samsung Galaxy S II",
+    "data": {
+      "year": 2011,
+      "price": 599.00,
+      "cpu_model": "Exynos 4210",
+      "storage": "32 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S III",
+    "data": {
+      "year": 2012,
+      "price": 599.00,
+      "cpu_model": "Exynos 4412",
+      "storage": "64 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S4",
+    "data": {
+      "year": 2013,
+      "price": 649.99,
+      "cpu_model": "Exynos 5410",
+      "storage": "64 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S5",
+    "data": {
+      "year": 2014,
+      "price": 650.00,
+      "cpu_model": "Exynos 5422",
+      "storage": "128 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S6",
+    "data": {
+      "year": 2015,
+      "price": 699.00,
+      "cpu_model": "Exynos 7420",
+      "storage": "128 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S7",
+    "data": {
+      "year": 2016,
+      "price": 699.00,
+      "cpu_model": "Exynos 8890",
+      "storage": "128 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S8",
+    "data": {
+      "year": 2017,
+      "price": 720.00,
+      "cpu_model": "Exynos 8895",
+      "storage": "256 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S9",
+    "data": {
+      "year": 2018,
+      "price": 719.00,
+      "cpu_model": "Exynos 9810",
+      "storage": "256 GB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S10",
+    "data": {
+      "year": 2019,
+      "price": 899.00,
+      "cpu_model": "Exynos 9820",
+      "storage": "1 TB",
+      "status": "Discontinued"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S20",
+    "data": {
+      "year": 2020,
+      "price": 999.00,
+      "cpu_model": "Exynos 990",
+      "storage": "1 TB",
+      "status": "Supported"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "data": {
+      "year": 2021,
+      "price": 799.00,
+      "cpu_model": "Exynos 2100",
+      "storage": "512 GB",
+      "status": "Supported"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "data": {
+      "year": 2022,
+      "price": 799.00,
+      "cpu_model": "Exynos 2200",
+      "storage": "1 TB",
+      "status": "Supported"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "data": {
+      "year": 2023,
+      "price": 799.00,
+      "cpu_model": "Snapdragon 8 Gen 2",
+      "storage": "1 TB",
+      "status": "In production"
+    }
+  }
+]
